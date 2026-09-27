@@ -27,15 +27,13 @@ Se consume la API pública de la NASA:
 
 ## 👨‍🚀 Equipo
 
-* Brayan Castro
-* Jony David
+* Brayan Andres Castro
+* Jhony David Moreno
 * Yesica Gonzalez
 * Zully Tamayo
 
 ## 🎯 Contexto
 
 Este proyecto fue desarrollado como parte de un **hackathon**, con el objetivo de crear una experiencia web creativa, funcional y visualmente impactante en un tiempo limitado.
-
----
 
 ✨ *Explora el universo… sin salir del navegador.*
